@@ -8,7 +8,7 @@ int linearSearch(int arr[], int size, int target){
             return i;
         }
     }
-    // cout << "Element  not found in the array\n"<< endl;
+    cout << "Element  not found in the array\n"<< endl;
     return -1;
 }
 int main(){
